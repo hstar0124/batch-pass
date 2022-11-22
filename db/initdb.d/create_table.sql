@@ -1,9 +1,3 @@
-/*
- id varchar(20)
- status, event varchar(10) - enum
- 그 외 varchar(50)
- */
-
 CREATE TABLE `package`
 (
     `package_seq`  int         NOT NULL AUTO_INCREMENT COMMENT '패키지 순번',
